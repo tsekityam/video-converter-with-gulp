@@ -1,0 +1,24 @@
+{
+  "name": "video-converter-with-gulp",
+  "version": "1.0.0",
+  "description": "A simple video converter which converts .mkv files into .mp4 using gulp-fluent-ffmpeg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsekityam/gulp-fluent-ffmpeg-example.git"
+  },
+  "author": "Tse Kit Yam",
+  "license": "Apache License, Version 2.0",
+  "bugs": {
+    "url": "https://github.com/tsekityam/gulp-fluent-ffmpeg-example/issues"
+  },
+  "homepage": "https://github.com/tsekityam/gulp-fluent-ffmpeg-example#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.0",
+    "gulp": "^3.9.1",
+    "gulp-fluent-ffmpeg": "^1.0.2"
+  }
+}
