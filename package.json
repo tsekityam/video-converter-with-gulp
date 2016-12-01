@@ -11,7 +11,7 @@
     "url": "git+https://github.com/tsekityam/gulp-fluent-ffmpeg-example.git"
   },
   "author": "Tse Kit Yam",
-  "license": "Apache License, Version 2.0",
+  "license": "APSL-2.0",
   "bugs": {
     "url": "https://github.com/tsekityam/gulp-fluent-ffmpeg-example/issues"
   },
