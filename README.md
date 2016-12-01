@@ -2,11 +2,11 @@
 A simple video converter which converts `.mkv` files into `.mp4` using [gulp-fluent-ffmpeg](https://github.com/psirenny/gulp-fluent-ffmpeg)
 
 ## Prerequisites
-* `node`
+* **node 7.1.0**
 
-* `gulp`
+* **gulp 1.2.2**
 
-* `ffmpeg`, with the following build configurations:     
+* **ffmpeg 3.2.1**, with the following build configurations:     
 
   * `--enable-gpl`
   * `--enable-libx264`
