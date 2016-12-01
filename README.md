@@ -4,6 +4,8 @@ A simple video converter which converts `.mkv` files into `.mp4` using [gulp-flu
 ## Prerequisites
 * `node`
 
+* `gulp`
+
 * `ffmpeg`, with the following build configurations:     
 
   * `--enable-gpl`
