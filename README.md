@@ -8,6 +8,7 @@ A simple video converter which converts `.mkv` files into `.mp4` using [gulp-flu
 
   * `--enable-gpl`
   * `--enable-libx264`
+  * `--enable-nonfree`
   * `--enable-libfdk-aac`
 
   (Remake: You can check the configuration by `$ ffmpeg -buildconf`)
